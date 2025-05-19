@@ -1,6 +1,6 @@
 ---
-title: 记一次Webpack迁移到Vite的过程.md
-date: 2024-05-24 14:44:15
+title: 记一次Webpack迁移到Vite的过程
+date: 2025-04-10 14:44:15
 tags: wp2vite, webpack迁移vite, vite
 ---
 ## 背景
